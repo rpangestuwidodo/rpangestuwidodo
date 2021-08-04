@@ -32,8 +32,8 @@ Here are a few things I've picked up along my learning journey.
  ## &#x1f4c8; GitHub Stats
 <p align="left">
 <a href="https://github.com/rpangestuwidodo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rpangestuwidodo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rpangestuwidodo&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rpangestuwidodo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rpangestuwidodo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
