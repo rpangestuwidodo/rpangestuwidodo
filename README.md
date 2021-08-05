@@ -40,9 +40,11 @@ Here are a few things I've picked up along my learning journey.
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
  
+<br/>
 
- <br/>
+<hr/>
 
+<br/>
 
 
 
