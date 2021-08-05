@@ -5,10 +5,13 @@
  
  <hr/>
  
- ## Let's Connect
-<a href="https://www.linkedin.com/in/rahmat-pangestu-widodo/" target="_blank"><img align="left" alt="Rahmat Pangestu Widodo | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dribbble.com/Rp_Widodo" target="_blank"><img align="left" alt="Rahmat Pangestu Widodo | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://www.instagram.com/rpangestuwidodo_" target="_blank"><img align="left" alt="Rahmat Pangestu Widodo | Instagram" width="25px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+ <p align="center">   
+  <a href="mailto:rahmatpw@upnvj.ac.id" target="_blank"><img alt="Rahmat Pangestu Widodo | Email" src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF"></a>
+  <a href="https://www.linkedin.com/in/rahmat-pangestu-widodo" target="_blank"><img alt="Rahmat Pangestu Widodo | LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF "></a> 
+  <a href="https://www.instagram.com/rpangestuwidodo_" target="_blank"><img alt="Rahmat Pangestu Widodo | Instagram" src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"></a>
+  <a href="https://dribbble.com/Rp_Widodo" target="_blank"><img alt="Rahmat Pangestu Widodo | Dribbble" src="https://img.shields.io/badge/Dribbble-0D1117?style=for-the-badge&logo=dribbble&logoColor=FFFFFF"></a>
+</p
+ 
 
  <br/>
 <br/>
@@ -25,21 +28,21 @@ Here are a few things I've picked up along my learning journey.
 
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=WordPress&logoColor=white) 
 
-![Figma](https://img.shields.io/badge/Figma-62372c?style=for-the-badge&logo=Figma&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff2865?style=for-the-badge&logo=Figma&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
  <br/>
  
  ## &#x1f4c8; GitHub Stats
-<p align="left">
-<a href="https://github.com/rpangestuwidodo">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rpangestuwidodo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rpangestuwidodo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+    <a href="#"><img alt="rpangestuwidodo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rpangestuwidodo&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="185"/></a>
+    <a href="#"><img alt="rpangestuwidodo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpangestuwidodo&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d93b7c&icon_color=F0DB4F" height="185"/></a>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+ 
 
  <br/>
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rpangestuwidodo&bg_color=040c2c&color=ffffff&line=0ba3d2&point=ffffff&area=true&hide_border=true) 
+
 
 
 
