@@ -42,6 +42,9 @@ Here are a few things I've picked up along my learning journey.
   </div>
  
 <br/>
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rpangestuwidodo&label=Profile%20views&color=0e75b6&style=flat" alt="rpangestuwidodo" /> </p>
 
 
 
